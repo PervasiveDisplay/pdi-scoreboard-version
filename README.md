@@ -1,1 +1,0 @@
-# pdi-scoreboard-version
